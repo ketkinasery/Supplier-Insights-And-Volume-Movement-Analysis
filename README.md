@@ -5,6 +5,11 @@ Introduction:
 
 I recently worked on a Power BI project aimed at providing actionable insights to the Procurement Department by analyzing invoice data, supplier capabilities, and procurement trends. This project involved three datasets: Invoice Data, Material Weights and Sources, and Supplier Data, each contributing to different aspects of the analysis.
 
+![image](https://github.com/ketkinasery/Supplier-Insights-And-Volume-Movement-Analysis/assets/145470599/bde93964-b2d2-4f66-b7d7-ded5c7b54f3a)
+
+
+![image](https://github.com/ketkinasery/Supplier-Insights-And-Volume-Movement-Analysis/assets/145470599/a5b45f55-0e9a-4c4d-8b54-12e04b047f08)
+
 Dashboard 1: Supplier Overview
 
 Objective:
@@ -50,10 +55,7 @@ In summary, our Power BI project successfully addresses the complex procurement 
 
 These dashboards provide valuable insights to stakeholders and empower them to optimize procurement processes, minimize costs, and enhance supplier relationships for sustained business growth.
 
-![image](https://github.com/ketkinasery/Supplier-Insights-And-Volume-Movement-Analysis/assets/145470599/bde93964-b2d2-4f66-b7d7-ded5c7b54f3a)
 
-
-![image](https://github.com/ketkinasery/Supplier-Insights-And-Volume-Movement-Analysis/assets/145470599/a5b45f55-0e9a-4c4d-8b54-12e04b047f08)
 
 
 
